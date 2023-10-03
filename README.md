@@ -1,7 +1,7 @@
-# BATSHEBA Token
+# Epic Coins Token
 This Solidity program is a simple ethereum token contract program that demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how ethereum works.
 # DESCRIPTION
-This Solidity program is a basic Ethereum token contract designed to create and manage a simple cryptocurrency named "Batsheba" with the symbol "BSBA." This contract includes essential functions for minting (creating) and burning (destroying) tokens.
+This Solidity program is a basic Ethereum token contract designed to create and manage a simple cryptocurrency named "Epic Coins" with the symbol "EC." This contract includes essential functions for minting (creating) and burning (destroying) tokens.
 # GETTING STARTED
 ## Executing Program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
